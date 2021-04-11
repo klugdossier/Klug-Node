@@ -3,10 +3,10 @@ authors = ['Klug Dossier']
 build = 'build.rs'
 description = 'Klug Dossier'
 edition = '2018'
-homepage = 'https://www.github.com/paulhealy09/unitchain'
+homepage = 'https://github.com/sbnair/Klug-DossierNode'
 license = 'Unlicense'
 name = 'klug-dossier'
-repository = 'https://www.github.com/paulhealy09/unitchain'
+repository = 'https://github.com/sbnair/Klug-DossierNode'
 version = '3.0.0'
 
 [[bin]]
