@@ -1,11 +1,11 @@
 [package]
-authors = ['Kurg Dossier']
+authors = ['Klug Dossier']
 build = 'build.rs'
-description = 'Kurg Dossier'
+description = 'Klug Dossier'
 edition = '2018'
 homepage = 'https://www.github.com/paulhealy09/unitchain'
 license = 'Unlicense'
-name = 'kurg-dossier-runtime'
+name = 'klug-dossier-runtime'
 repository = 'https://www.github.com/paulhealy09/unitchain'
 version = '3.0.0'
 
