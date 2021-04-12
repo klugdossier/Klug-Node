@@ -40,22 +40,22 @@ CFLAGS = None
 CRATE_CC_NO_DEFAULTS = None
 DEBUG = Some("false")
 CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
-running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse2_x86-64_unix.o" "-c" "c/blake3_sse2_x86-64_unix.S"
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse2_x86-64_unix.o" "-c" "c/blake3_sse2_x86-64_unix.S"
 exit code: 0
-running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse41_x86-64_unix.o" "-c" "c/blake3_sse41_x86-64_unix.S"
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse41_x86-64_unix.o" "-c" "c/blake3_sse41_x86-64_unix.S"
 exit code: 0
-running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx2_x86-64_unix.o" "-c" "c/blake3_avx2_x86-64_unix.S"
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx2_x86-64_unix.o" "-c" "c/blake3_avx2_x86-64_unix.S"
 exit code: 0
 AR_x86_64-unknown-linux-gnu = None
 AR_x86_64_unknown_linux_gnu = None
 HOST_AR = None
 AR = None
-running: "ar" "cq" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/libblake3_sse2_sse41_avx2_assembly.a" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse2_x86-64_unix.o" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse41_x86-64_unix.o" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx2_x86-64_unix.o"
+running: "ar" "cq" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/libblake3_sse2_sse41_avx2_assembly.a" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse2_x86-64_unix.o" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_sse41_x86-64_unix.o" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx2_x86-64_unix.o"
 exit code: 0
-running: "ar" "s" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/libblake3_sse2_sse41_avx2_assembly.a"
+running: "ar" "s" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/libblake3_sse2_sse41_avx2_assembly.a"
 exit code: 0
 cargo:rustc-link-lib=static=blake3_sse2_sse41_avx2_assembly
-cargo:rustc-link-search=native=/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out
+cargo:rustc-link-search=native=/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out
 cargo:rerun-if-env-changed=CARGO_FEATURE_PURE
 cargo:rerun-if-env-changed=CARGO_FEATURE_PREFER_INTRINSICS
 cargo:rustc-cfg=blake3_avx512_ffi
@@ -73,18 +73,18 @@ CFLAGS = None
 CRATE_CC_NO_DEFAULTS = None
 DEBUG = Some("false")
 CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
-running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-mavx512f" "-mavx512vl" "-o" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx512_x86-64_unix.o" "-c" "c/blake3_avx512_x86-64_unix.S"
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-mavx512f" "-mavx512vl" "-o" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx512_x86-64_unix.o" "-c" "c/blake3_avx512_x86-64_unix.S"
 exit code: 0
 AR_x86_64-unknown-linux-gnu = None
 AR_x86_64_unknown_linux_gnu = None
 HOST_AR = None
 AR = None
-running: "ar" "cq" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/libblake3_avx512_assembly.a" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx512_x86-64_unix.o"
+running: "ar" "cq" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/libblake3_avx512_assembly.a" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/c/blake3_avx512_x86-64_unix.o"
 exit code: 0
-running: "ar" "s" "/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out/libblake3_avx512_assembly.a"
+running: "ar" "s" "/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out/libblake3_avx512_assembly.a"
 exit code: 0
 cargo:rustc-link-lib=static=blake3_avx512_assembly
-cargo:rustc-link-search=native=/root/Unit-Network/target/release/build/blake3-47b6715a080893dd/out
+cargo:rustc-link-search=native=/root/Klug-Dossier/target/release/build/blake3-47b6715a080893dd/out
 cargo:rerun-if-env-changed=CARGO_FEATURE_NEON
 cargo:rerun-if-env-changed=CC
 cargo:rerun-if-env-changed=CFLAGS

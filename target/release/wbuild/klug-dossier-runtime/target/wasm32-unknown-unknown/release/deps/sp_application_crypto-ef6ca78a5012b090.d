@@ -1,0 +1,11 @@
+/root/Klug-Dossier/target/release/wbuild/klug-dossier-runtime/target/wasm32-unknown-unknown/release/deps/sp_application_crypto-ef6ca78a5012b090.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs
+
+/root/Klug-Dossier/target/release/wbuild/klug-dossier-runtime/target/wasm32-unknown-unknown/release/deps/libsp_application_crypto-ef6ca78a5012b090.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs
+
+/root/Klug-Dossier/target/release/wbuild/klug-dossier-runtime/target/wasm32-unknown-unknown/release/deps/sp_application_crypto-ef6ca78a5012b090.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ed25519.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/sr25519.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/ecdsa.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-3.0.0/src/traits.rs:

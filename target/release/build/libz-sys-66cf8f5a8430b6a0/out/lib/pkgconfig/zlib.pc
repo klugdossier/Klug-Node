@@ -1,4 +1,4 @@
-prefix=/root/Unit-Network/target/release/build/libz-sys-66cf8f5a8430b6a0/out
+prefix=/root/Klug-Dossier/target/release/build/libz-sys-66cf8f5a8430b6a0/out
 exec_prefix=@exec_prefix@
 libdir=@libdir@
 sharedlibdir=@sharedlibdir@

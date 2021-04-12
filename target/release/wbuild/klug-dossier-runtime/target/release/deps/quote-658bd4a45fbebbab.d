@@ -1,0 +1,13 @@
+/root/Klug-Dossier/target/release/wbuild/klug-dossier-runtime/target/release/deps/quote-658bd4a45fbebbab.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/root/Klug-Dossier/target/release/wbuild/klug-dossier-runtime/target/release/deps/libquote-658bd4a45fbebbab.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/root/Klug-Dossier/target/release/wbuild/klug-dossier-runtime/target/release/deps/quote-658bd4a45fbebbab.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:

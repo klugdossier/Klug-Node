@@ -15,8 +15,8 @@ use sc_keystore::LocalKeystore;
 // Our native executor instance.
 native_executor_instance!(
 	pub Executor,
-	unit_network_runtime::api::dispatch,
-	unit_network_runtime::native_version,
+	klug_dossier_runtime::api::dispatch,
+	klug_dossier_runtime::native_version,
 	frame_benchmarking::benchmarking::HostFunctions,
 );
 

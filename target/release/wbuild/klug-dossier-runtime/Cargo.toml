@@ -1,0 +1,22 @@
+[dependencies.wasm-project]
+default-features = false
+features = []
+package = 'klug-dossier-runtime'
+path = '/root/Klug-Dossier/runtime'
+
+[lib]
+crate-type = ['cdylib']
+name = 'klug_dossier_runtime'
+
+[package]
+edition = '2018'
+name = 'klug-dossier-runtime-wasm'
+version = '1.0.0'
+[profile.dev]
+panic = 'abort'
+
+[profile.release]
+lto = true
+panic = 'abort'
+
+[workspace]
