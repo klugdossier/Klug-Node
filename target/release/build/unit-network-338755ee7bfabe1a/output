@@ -1,4 +1,0 @@
-cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=3.0.0-14eddec-x86_64-linux-gnu
-cargo:rerun-if-changed=/root/Unit-Network/.git/HEAD
-cargo:rerun-if-changed=/root/Unit-Network/.git/refs/heads/main
-
